@@ -6,3 +6,6 @@
 
 # JetBrains IDEs
 .idea/
+
+/.direnv
+.DS_Store
